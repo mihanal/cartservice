@@ -3,7 +3,7 @@ package com.micro.connection;
 public class ConnectionManager {
 
 	public void getConnection() {
-		// TODO Implement the get connection logic
+		// TODO Implement get connection logic
 	}
 	
 	public void createJDBCConnection() {
