@@ -2,8 +2,8 @@ package com.micro.connection;
 
 public class ConnectionManager {
 
-	public void getConnection() {
-		// TODO 
+	public void getConnection() { 
+		// TODO Implement get connection logic
 	}
 	
 	public void createJDBCConnection() {
